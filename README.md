@@ -7,3 +7,5 @@ So my way to home is going through this ['701', '104', '106', '107','108', '109'
 
 I got this:
 ![Results](/photo5274244952618020170.jpg)
+
+From the figure it's pretty obvious that these crossroads have the same load at almost any season. And the best time for travel to job is late evening and very early morning.
